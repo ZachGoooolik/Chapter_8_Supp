@@ -25,4 +25,4 @@ Create a class called rectangle.  The attributes for rectangle are:
     EXERCISE 2
     Create a class called Prism, which does all the same things as rectangle, excpet that it uses a third attribute: Height.
     
-    also, it should have sets and gets for height, and include a new method: volume, which returns the volume of the prism.
+    also, it should have sets and gets for height, and include a new method: volume, which returns the volume of the prism..
